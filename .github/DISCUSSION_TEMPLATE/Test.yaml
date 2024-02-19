@@ -1,6 +1,10 @@
 title: "[Propose a Paper for the Agents Reading Group]"
 labels: ["New Paper"]
 body:
+  - type: textarea
+    attributes:
+      label: "Paper Title"
+
   - type: markdown
     attributes:
       value: |
