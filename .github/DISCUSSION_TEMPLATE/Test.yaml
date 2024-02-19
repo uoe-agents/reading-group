@@ -1,8 +1,9 @@
-title: "[Paper Title] "
+title: "[Paper Title]"
 labels: ["New Paper"]
 body:
   - type: textarea
     attributes:
+      label: "Paper Details"
       placeholder: |
         **Link**: 
 
